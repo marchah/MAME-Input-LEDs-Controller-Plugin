@@ -2,7 +2,7 @@
 
 # WIRING
 
-[WIRING](img/raspberry_pi_1b_failure.png)
+![WIRING](img/raspberry_pi_1b_failure.png)
 
 ## Install
 
@@ -24,7 +24,7 @@ pip install requests
 
 # Demo
 
-[Youtube link](https://www.youtube.com/watch?v=P2EGnTRAedU)
+![Youtube link](https://www.youtube.com/watch?v=P2EGnTRAedU)
 
 ## Issues
 
