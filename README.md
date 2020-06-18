@@ -39,3 +39,12 @@ pip install requests
 - Find a way set the game input configuration from the lua plugin
 - Find a way to go the http request directly from the lua plugin
 - Parse http query and display to user if error
+- If game pause make start button blink
+- If no coins make coins button blink
+- Support more input layouts
+- Add support for ServoStik joystick
+- Server: ctrl + c not handled
+- Server: if game unknown light all leds
+- Server: create a http server without using `flask`
+- Server: add env variables to only light up player inputs based on game number of players
+- Server: having issue install dependencies for Pi B+, works for Zero W and 3B

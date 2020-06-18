@@ -71,15 +71,3 @@ POST /debug
   message: string # set only if success if false
 }
 ```
-
-## TODO
-
-- Ctrl + c not handled
-- If game unknown light all leds
-- If game pause make start button blink
-- If no coins make coins button blink
-- Support more input layouts
-- Create a http server without using `flask`
-- Add env variables to only light up player inputs based on game number of players
-- Add support for ServoStik joystick
-- Having issue install dependencies for Pi B+, works for Zero W and 3B
