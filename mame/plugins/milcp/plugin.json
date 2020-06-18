@@ -1,0 +1,11 @@
+{
+  "plugin": {
+    "name": "milcp",
+    "description": "MAME Input LEDs Controller Plugin",
+    "version": "0.0.1",
+    "author": "Marchah",
+    "license": "GNU Lesser General Public License v3.0",
+    "type": "plugin",
+    "start": "true"
+  }
+}

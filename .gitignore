@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Synology File
+.DS_Store
+
+/debug
+
 # Distribution / packaging
 .Python
 build/
