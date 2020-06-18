@@ -2,7 +2,7 @@
 
 # WIRING
 
-TODO
+[WIRING](img/raspberry_pi_1b_failure.png)
 
 ## Install
 
@@ -21,6 +21,10 @@ pip install requests
 # Server
 
 - [Setup Raspberry Pi](/rpi-server)
+
+# Demo
+
+[Youtube link](https://www.youtube.com/watch?v=P2EGnTRAedU)
 
 ## Issues
 
