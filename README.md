@@ -1,6 +1,6 @@
 # Plugin MAME Input LEDs Controller Plugin
 
-# WIRING
+## WIRING
 
 ![WIRING](img/MILCP_wiring.png)
 
@@ -18,11 +18,15 @@ python # will open windows store, click Get
 pip install requests
 ```
 
-# Server
+## Server
 
 - [Setup Raspberry Pi](/rpi-server)
 
-# Demo
+## Supported Games
+
+- [List Supported Games](SupportedGames.md)
+
+## Demo
 
 [Youtube link](https://www.youtube.com/watch?v=P2EGnTRAedU)
 

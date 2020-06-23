@@ -1,0 +1,140 @@
+# Supported Games
+
+- 1941: Counter Attack `1941, 1941r1, 1941j, 1941u`
+- 1943: The Battle of Midway `1943, 1943j, 1943b, 1943u, 1943ja, 1943jah, 1943bj, 1943ua`
+- 1944: The Loop Master `1944, 1944d, 1944j`
+- After Burner `aburner, mt_aftrb`
+- After Burner II `aburner2, aburner2g`
+- Alien Syndrome `aliensyn, aliensynj, aliensyn5, aliensyn7, aliensyn3, aliensynjo, aliensyn2, mt_asyn`
+- Asteroids `asteroid, asteroidb, asteroid2, asteroid1`
+- Alien vs. Predator `avsp, avspj, avspa, avspd, avsph, avspu`
+- Bad Dudes vs. Dragonninja `baddudes`
+- Battle Chopper `bchopper`
+- Bionic Commandos `bionicc, bioniccbl, bioniccbl2`
+- Black Tiger `blktiger, blktigera, blktigerb1, blktigerb2`
+- Bomb Jack `bombjack, bombjack2, bombjackt`
+- Burger Time `btime, bbtime, btimem, btime2, btime3, cbtime`
+- Bubble Bobble `bublbobl, bublboblr, bublboblr1, bublboblp, bbredux, bublbobl1, bublboblb, bub68705`
+- Captain Commando `captcomm, captcommj, captcommb, captcommu, captcommr1, captcommb2, captcommjr1`
+- Centipede `centiped, centipedj, centipdb2, centiped3, centiped2, centiped1, centipdb`
+- Commando `commando, commandou, commandob2, commandob3, commandob, commandou2, commsega`
+- Dragon Breed `dbreed, dbreedm72j, dbreedm72`
+- Double Dragon `ddragon, ddragonw1, ddragonub, ddragonua, ddragonb, ddragonw, ddragonba, ddragonu, ddragonb2, ddragon6809a, ddragon6809`
+- Dungeons & Dragons: Shadow over Mystara `ddsom, ddsomu, ddsoma, ddsomj, ddsomjr2, ddsomr3, ddsomr2, ddsomar1, ddsomjr1, ddsomr1, ddsomur1, ddsomud`
+- Dungeons & Dragons: Shadow over Mystara `ddsomh, ddsomb`
+- Dungeons & Dragons: Tower of Doom `ddtod, ddtodd, ddtodar1, ddtodj, ddtodjr2, ddtodu, ddtodhr1, ddtodhr2, ddtodjr1, ddtodh, ddtoda, ddtodur1, ddtodr1`
+- Deathsmiles `deathsml`
+- Defender `defender, defenderw, defndjeu, defenderb, defenderg`
+- Dig Dug `digdug, digdug1, digdugat, digdugat1`
+- Dimahoo `dimahoo, dimahoud, dimahoou`
+- Cadillacs and Dinosaurs `dino, dinoa, dinou, dinopic, dinopic2, dinopic3`
+- DJ Boy `djboy, djboyua, djboyja, djboyj, djboyu`
+- Donkey Kong `dkong, dkongj, dkongjo, dkongo, ckongdks, cdkong, dkonghrd, dkongjo1`
+- Donkey Kong `dkongjr, dkongjrj, dkongjrpb, dkongjrb, dkongjnrj, dkongjr2, dkongjrm, dkongjrmc, dkongjre`
+- Double Dragon `doubledr`
+- Darkstalkers: The Night Warriors `dstlk, dstlku, dstlka, dstlkh, dstlku1d, dstlkur1`
+- Elevator Action `elevator, elevatorb, elevator4`
+- Espgaluda `espgal, espgalbl`
+- ESP Ra.De. `esprade, espradej, espradejo`
+- Final Fight `ffight, ffighta, ffightu1, ffightua, ffightuc, ffightu, ffightj, ffightj1, ffightj2, ffightj3, ffightj4, ffightub, ffightbl, ffightbla`
+- Forgotten Worlds `forgottn, forgottnue, forgottnu, forgottnuaa, forgottnua, forgottnuc, forgottna`
+- Frogger `frogger, froggervd, froggerv, froggers3, froggrs, froggermc, froggers1, froggers2, froggeram, cfrogger`
+- Flying Shark `fshark, fsharkbt`
+- Mushihime-Sama Futari `futari10`
+- Mushihime-Sama Futari Ver 1.5 `futari15, futari15a`
+- Galaga `galaga, galagamw, galagamf, galagao, galagamk`
+- Galaxian `galaxian, galaxiant, galaxiani, galaxianmo, galaxrf, galaxianbl, galaxiana, cgalaxn, galaxbsf, galaxianm, galaxianbl2, galaxianbl3, galaxbsf2`
+- Garou: Mark of the Wolves `garou, garouh, garoup, garouha, garoubl`
+- Gauntlet II `gaunt2, gaunt2g`
+- Gauntlet II `gaunt22p, gaunt22pg, gaunt22p1`
+- Gauntlet `gauntlet, gauntletr2, gauntletj12, gauntletr5, gauntletr7, gauntletgr3, gauntlets, gauntletr9, gauntletj, gauntletgr8, gauntletg, gauntletr4, gauntletgr6, gauntletr1`
+- Gauntlet `gauntlet2p, gauntlet2pr3, gauntlet2pg1, gauntlet2pj, gauntlet2pj2, gauntlet2pg, gntlt`
+- Green Beret `gberet, greenber, gberetb`
+- Ghouls'n Ghosts `ghouls, ghoulsu`
+- Ghosts'n Goblins `gng, gnga, gngt, gngc, gngblita, gngbl, gngprot`
+- Gun.Smoke `gunsmoke, gunsmokeu, gunsmokeb, gunsmokej, gunsmokeub, gunsmokeua`
+- Guwange `guwange, guwanges`
+- Guerrilla War `gwar, gwarb, gwarab, gwara`
+- Gyruss `gyruss, gyrussb, gyrussce`
+- Ikari Warriors `ikari, ikaria, ikarinc, ikaria2`
+- In The Hunt `inthunt, inthuntu`
+- Space Invaders `invaders, invaderl, invadernc, invadrmr, invadersem, sisv1, sitv1, sicv, sicv1, sisv3, sitv, sisv, sisv2`
+- Jackal `jackal, jackalr, jackalbl`
+- Joust `joust, joustr, joustwr`
+- Jungle King `junglek, junglekj2, junglekas`
+- Knights of the Round `knights, knightsu, knightsja, knightsj, knightsb, knightsb2, knightsb3`
+- The King of Dragons `kod, kodb, kodj, kodu, kodja, kodr1, kodr2`
+- Kung-Fu Master `kungfum, kungfub2, kungfumd, kungfub`
+- The Last Blade 2 `lastbld2`
+- Mario Bros. `mario, marioj, mariof, marioe, mariobl, mariobla`
+- Mortal Kombat II `mk2, mk2r42, mk2r91, mk2r30, mk2r31e, mk2r21, mk2r14, mk2r32e, mk2r11, mk2r20`
+- Moon Cresta `mooncrst, mooncrgx, mooncrstg, mooncrstso, mooncrstuk, mooncptc, mooncrs3, mooncrstu, mooncrsb, mooncreg, mooncrs5, mooncrs2, mooncrstuku, mooncrsto`
+- Moon Patrol `mpatrol, mpatrolw`
+- Mr. Do! `mrdo, mrdoy, mrdot, mrdofabr, mrdofix`
+- Marvel Super Heroes `msh, mshu, mshud, msha, mshj, mshh, mshbr1, mshb, mshjr1`
+- Marvel Super Heroes Vs. Street Fighter `mshvsf, mshvsfu, mshvsfb1, mshvsfu1d, mshvsfj, mshvsfj2, mshvsfh, mshvsfj1, mshvsfa, mshvsfu1, mshvsfa1, mshvsfb`
+- Metal Slug: Super Vehicle-001 `mslug`
+- Metal Slug 3 `mslug3, mslug3a, mslug3h`
+- Metal Slug X: Super Vehicle-001 `mslugx`
+- Ms. Pac-Man `mspacman, mspacmanbg, mspacmanbg2, mspacmab2, mspacmbe, mspacmanbi, mspacmbmc, mspacmnf, mspacmancr, mspacmab, cmspacmn`
+- Magic Sword: Heroic Fantasy `msword, mswordr1, mswordu, mswordj`
+- Marvel Vs. Capcom: Clash of Super Heroes `mvsc, mvsca, mvscu, mvscjr1, mvscjsing, mvscud, mvscb, mvsch, mvscar1, mvscur1, mvscj`
+- Ninja Spirit `nspirit`
+- Operation Wolf `opwolf, opwolfjsc, opwolfj, opwolfu, opwolfa, opwolfp`
+- Out Run `outrun, outrundx, outrunra, mt_orun, outrundxa, outrunb, outrundxeh, outruneh, outrundxj`
+- Pac-Man `pacman, pacmanbl, pacmanvg, pacmanbla, cpacmanr1, pac90, pacmanf, pacheart, cpacman, pacmanjpm, pacmanblv, pacmanso, pacmod, pacmanblb`
+- Pengo `pengo, pengob, pengo4, pengo2u, bpengo, pengojpm, pengo5, pengomc2, pengomc1, pengo3u, pengo2, pengopac`
+- Phoenix `phoenix, phoenixa, phoenixj, phoenixb, phoenixha, phoenixi, phoenixgu, phoenix2, phoenixc3, phoenixc, phoenix3, phoenixass, phoenixs, phoenixt, phoenixdal, phoenixc4, phoenixc2, j5phnxa`
+- P.O.W.: Prisoners of War `pow`
+- The Punisher `punisher, punisherj, punisheru, punisherh, punipic, punipic2, punipic3`
+- Q*bert `qbert, qbertj, pbqbert, qberta`
+- Rabio Lepus `rabiolep`
+- Rampage `rampage, rampage2, m5rampg11, m5rampg, m5rampg12`
+- Rastan Saga `rastsaga, rastsagab, rastsagaa`
+- Rainbow Islands `rbisland, rbislando`
+- Raiden Fighters `rdft, rdftau, rdftgb, rdfts, rdftjb, rdftgr, rdftadi, rdftam, rdftu, rdftit, rdfta, rdftja, rdftauge, rdftua, rdftj`
+- Raiden Fighters Jet `rfjet, rfjetsa, rfjett, rfjetj, rfjeta, rfjetu, rfjets`
+- Rampage: World Tour `rmpgwt, rmpgwt11`
+- Robocop `robocop, robocopb, robocopu0, robocopj, robocopw, robocopu`
+- Robotron: 2084 `robotron, robotron87, robotron12, robotrontd, robotronyo`
+- Rolling Thunder `rthunder, rthundera, rthunder0, rthunder1, rthunder2`
+- R-Type `rtype, rtypeb, rtypeu, rtypejp, rtypej, rtypem82b`
+- R-Type II `rtype2, rtype2j, rtype2jc, rtype2m82b`
+- Rygar `rygar, rygar2, rygar3`
+- Samurai Shodown II `samsho2`
+- Scramble `scramble, scrambles, scrambles2, scramb2, scramblebb, scramblebf, scramce, scramblb, scrammr, scrampt, scramrf, scrambler, scramb3`
+- Street Fighter `sf, sfj, sfw, sfua`
+- Street Fighter II': Champion Edition `sf2ce, sf2amf, sf2ceua, sf2cems6a, sf2redp2, sf2ceblp, sf2rb3, sf2cems6b, sf2ceuc, sf2ceds6, sf2red, sf2cebltw, sf2dongb, sf2cejc, sf2m1, sf2ceub, sf2koryu, sf2ceupl, sf2bhh, sf2re, sf2acc, sf2cems6c, sf2level, sf2ceb, sf2m6, sf2rb, sf2v004, sf2cejb, sf2acca, sf2amf2, sf2yyc, sf2dkot2, sf2m5, sf2cet, sf2m9, sf2m10, sf2m2, sf2amf3, sf2ceja, sf2accp2, sf2m7, sf2ceea, sf2m3, sf2m4, sf2rb2, sf2m8`
+- Street Fighter Alpha 2 `sfa2, sfa2u, sfa2ur1`
+- Street Fighter Alpha 3 `sfa3, sfa3ud, sfa3b, sfa3us, sfa3ur1, sfa3u, sfa3h, sfa3hr1`
+- Street Fighter III 3rd Strike: Fight for the Future `sfiii3, sfiii3u, sfiii3jr1, sfiii3j, sfiii3ur1, sfiii3nr1, sfiii3n, sfiii3r1`
+- Shinobi `shinobi, shinobi5, shinobi2, shinobls, shinobld, shinobi1d, shinobi1, shinobi4, shinoblda, shinobi6, shinobi3, shinobi2d, shinoblb`
+- Side Arms: Hyper Dyne `sidearms, sidearmsur1, sidearmsu, sidearmsj`
+- Silk Worm `silkworm, silkwormj, silkwormb, silkwormp`
+- The Simpsons `simpsons, simpsons4pa, simpsons4pe`
+- The Simpsons `simpsons2p, simpsons2pa, simpsons2pj, simpsons2p2, simpsons2p3`
+- Saturday Night Slam Masters `slammast, slammastu, slampic, slampic2`
+- Snow Bros.: Nick & Tom `snowbros, snowbrosc, snowbrosd, snowbrosa, snowbroswb, snowbrosj, snowbrosb`
+- Solomon's Key `solomon, solomonj`
+- Star Wars `starwars, starwarso, starwars1`
+- Strider `strider, striderua, strideruc`
+- Tiger Road `tigeroad, tigeroadu, tigeroadb`
+- Time Pilot `timeplt, timepltc, timeplta`
+- Teenage Mutant Ninja Turtles `tmnt, tmntj, tmntub, tmntua, tmntu, tmnta, tmntuc`
+- Teenage Mutant Ninja Turtles: Turtles in Time `tmnt2, tmnt2a, tmnt24pu`
+- Teenage Mutant Ninja Turtles: Turtles in Time `tmnt22pu`
+- Teenage Mutant Ninja Turtles `tmnt2po, tmnt2pj`
+- Track & Field `trackfld, trackfldnz, trackfldu, trackfldc`
+- Trojan `trojan, trojanr, trojanb, trojana`
+- Twin Cobra `twincobr, twincobru`
+- Ultimate Mortal Kombat 3 `umk3, umk3r10, umk3r11`
+- U.N. Squadron `unsquad`
+- Vigilante `vigilant, vigilantd, vigilantc, vigilanta, vigilantg, vigilantbl, vigilanto, vigilantb`
+- Vampire Savior: The Lord of Vampire `vsav, vsava, vsavd, vsavj, vsavu, vsavh`
+- Vampire Savior 2: The Lord of Vampire `vsav2, vsav2d`
+- Wonder Boy `wboy, wboyo, wboyu, wboyub, wboy2u, wboy2, wboy3, wboy4, wboy5, wboy6, wboysys2, wboysys2a`
+- Willow `willow, willowu, willowj, willowuo`
+- Xevious `xevious, xeviousa, xeviousb, xeviousc`
+- X-Men Vs. Street Fighter `xmvsf, xmvsfa, xmvsfb, xmvsfj, xmvsfh, xmvsfu, xmvsfjr1, xmvsfjr2, xmvsfjr3, xmvsfar1, xmvsfar2, xmvsfar3, xmvsfu1d, xmvsfur1, xmvsfur2, xmvsfr1`
+- Yie Ar Kung-Fu `yiear, yiear2, yieartf`
+- Zaxxon `zaxxon, zaxxonj, bzaxxon, zaxxon2, zaxxon3`
