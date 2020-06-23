@@ -11,7 +11,7 @@ local json = require('json')
 function getConfigPath()
 	local file = io.open(manager:machine():options().entries.pluginspath:value() .. "/milcp/mapping.json", "r")
 	if not file then
-		print("Roms mapping not found") -- should it be a popup?
+		print("Roms mapping not found")
 		return nil
 	end
 	local data = file:read("*a")
@@ -19,6 +19,7 @@ function getConfigPath()
 	local mapping = json.parse(data)
 	local filename = mapping[emu.romname()]
 	if not filename then
+    manager:machine():popmessage(_("Rom " .. emu.romname() .. " not supported yet !"))
 		return nil
 	end
 	return manager:machine():options().entries.pluginspath:value() .. "/milcp/config/" .. filename .. ".json"

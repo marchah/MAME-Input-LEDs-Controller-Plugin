@@ -34,7 +34,6 @@ pip install requests
 
 - Use mosfets instead of relays
 - Improve ugly wiring diagram
-- Display message in MAME when rom doesn't have input config
 - MAME seems to know how many buttons the game use, investigate that
 - Find a way set the game input configuration from the lua plugin
 - Find a way to go the http request directly from the lua plugin
