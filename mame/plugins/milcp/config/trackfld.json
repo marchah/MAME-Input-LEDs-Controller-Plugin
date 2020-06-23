@@ -1,0 +1,17 @@
+{
+  "name": "Track & Field",
+  "serie": "Track & Field",
+  "roms": ["trackfld", "trackfldnz", "trackfldu", "trackfldc"],
+  "developer": "Konami",
+  "publisher": "Konami",
+  "hardware": "arcade",
+  "playMode": "4_player_alternating_2_player_simultaneous",
+  "genre": "sports",
+  "subGenre": "track_and_field",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1",
+    "B_2": "BUTTON2"
+  },
+  "joystick": "4_way"
+}

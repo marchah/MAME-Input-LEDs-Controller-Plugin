@@ -1,0 +1,17 @@
+{
+  "name": "Mushihime-Sama Futari",
+  "serie": "Mushihime-Sama",
+  "roms": ["futari10"],
+  "developer": "Cave",
+  "publisher": "Cave",
+  "hardware": "arcade",
+  "playMode": "2_player_simultaneous",
+  "genre": "shooter",
+  "subGenre": "flying_vertical",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1",
+    "B_2": "BUTTON2"
+  },
+  "joystick": "8_way"
+}

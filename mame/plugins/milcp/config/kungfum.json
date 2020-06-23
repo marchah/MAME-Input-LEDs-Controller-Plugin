@@ -1,0 +1,16 @@
+{
+  "name": "Kung-Fu Master",
+  "serie": "Kung-Fu Master",
+  "roms": ["kungfum", "kungfub2", "kungfumd", "kungfub"],
+  "developer": "Irem",
+  "publisher": "Irem",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "platform",
+  "subGenre": "fighter_scrolling",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "4_way"
+}

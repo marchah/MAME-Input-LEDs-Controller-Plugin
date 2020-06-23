@@ -1,0 +1,16 @@
+{
+  "name": "U.N. Squadron",
+  "serie": "U.N. Squadron",
+  "roms": ["unsquad"],
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "hardware": "cps1",
+  "playMode": "2_player_simultaneous",
+  "genre": "shooter",
+  "subGenre": "flying_horizontal",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

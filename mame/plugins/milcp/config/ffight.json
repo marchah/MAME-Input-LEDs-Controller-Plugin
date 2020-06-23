@@ -1,0 +1,31 @@
+{
+  "name": "Final Fight",
+  "serie": "Final Fight",
+  "roms": [
+    "ffight",
+    "ffighta",
+    "ffightu1",
+    "ffightua",
+    "ffightuc",
+    "ffightu",
+    "ffightj",
+    "ffightj1",
+    "ffightj2",
+    "ffightj3",
+    "ffightj4",
+    "ffightub",
+    "ffightbl",
+    "ffightbla"
+  ],
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "hardware": "cps1",
+  "playMode": "2_player_simultaneous",
+  "genre": "fighter",
+  "subGenre": "2.5D",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

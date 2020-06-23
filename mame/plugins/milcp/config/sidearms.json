@@ -1,0 +1,16 @@
+{
+  "name": "Side Arms: Hyper Dyne",
+  "serie": "Section Z",
+  "roms": ["sidearms", "sidearmsur1", "sidearmsu", "sidearmsj"],
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "hardware": "arcade",
+  "playMode": "2_player_simultaneous",
+  "genre": "shooter",
+  "subGenre": "flying_horizontal",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

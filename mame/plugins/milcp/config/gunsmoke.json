@@ -1,0 +1,23 @@
+{
+  "name": "Gun.Smoke",
+  "roms": [
+    "gunsmoke",
+    "gunsmokeu",
+    "gunsmokeb",
+    "gunsmokej",
+    "gunsmokeub",
+    "gunsmokeua"
+  ],
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "shooter",
+  "subGenre": "walking",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1",
+    "B_2": "BUTTON2"
+  },
+  "joystick": "8_way"
+}

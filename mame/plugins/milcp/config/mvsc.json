@@ -1,0 +1,32 @@
+{
+  "name": "Marvel Vs. Capcom: Clash of Super Heroes",
+  "serie": "Marvel Vs. Capcom",
+  "roms": [
+    "mvsc",
+    "mvsca",
+    "mvscu",
+    "mvscjr1",
+    "mvscjsing",
+    "mvscud",
+    "mvscb",
+    "mvsch",
+    "mvscar1",
+    "mvscur1",
+    "mvscj"
+  ],
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "hardware": "cps2",
+  "playMode": "2_player_simultaneous",
+  "genre": "fighter",
+  "subGenre": "versus",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1",
+    "B_2": "BUTTON2",
+    "B_3": "BUTTON3",
+    "B_4": "BUTTON4",
+    "B_5": "BUTTON5"
+  },
+  "joystick": "8_way"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Ikari Warriors",
+  "serie": "Ikari",
+  "roms": ["ikari", "ikaria", "ikarinc", "ikaria2"],
+  "developer": "SNK",
+  "publisher": "SNK",
+  "hardware": "arcade",
+  "playMode": "2_player_simultaneous",
+  "genre": "shooter",
+  "subGenre": "walking",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

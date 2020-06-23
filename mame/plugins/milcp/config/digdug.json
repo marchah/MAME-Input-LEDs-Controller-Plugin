@@ -1,7 +1,9 @@
 ﻿{
   "name": "Dig Dug",
+  "serie": "Dig Dug",
   "roms": ["digdug", "digdug1", "digdugat", "digdugat1"],
-  "developer": "namco",
+  "developer": "Namco",
+  "publisher": "Namco",
   "hardware": "arcade",
   "playMode": "2_player_alternating",
   "genre": "maze",

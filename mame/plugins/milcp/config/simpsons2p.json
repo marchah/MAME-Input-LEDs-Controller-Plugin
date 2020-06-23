@@ -1,0 +1,21 @@
+{
+  "name": "The Simpsons",
+  "roms": [
+    "simpsons2p",
+    "simpsons2pa",
+    "simpsons2pj",
+    "simpsons2p2",
+    "simpsons2p3"
+  ],
+  "developer": "Konami",
+  "publisher": "Konami",
+  "hardware": "arcade",
+  "playMode": "2_player_simultaneous",
+  "genre": "fighter",
+  "subGenre": "2.5D",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Frogger",
+  "serie": "Frogger",
+  "roms": [
+    "frogger",
+    "froggervd",
+    "froggerv",
+    "froggers3",
+    "froggrs",
+    "froggermc",
+    "froggers1",
+    "froggers2",
+    "froggeram",
+    "cfrogger"
+  ],
+  "developer": "Konami",
+  "publisher": "Konami",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "maze",
+  "subGenre": "cross",
+  "inputs": {},
+  "joystick": "4_way"
+}

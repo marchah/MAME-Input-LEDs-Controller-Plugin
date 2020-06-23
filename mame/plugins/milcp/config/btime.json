@@ -1,0 +1,15 @@
+{
+  "name": "Burger Time",
+  "serie": "Burger Time",
+  "roms": ["btime", "bbtime", "btimem", "btime2", "btime3", "cbtime"],
+  "developer": "Data East",
+  "publisher": "Data East",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "platform",
+  "subGenre": "run_jump",
+  "inputs": {
+    "B_0": "BUTTON0"
+  },
+  "joystick": "4_way"
+}

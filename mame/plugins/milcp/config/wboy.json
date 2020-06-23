@@ -1,0 +1,29 @@
+{
+  "name": "Wonder Boy",
+  "serie": "Wonder Boy",
+  "roms": [
+    "wboy",
+    "wboyo",
+    "wboyu",
+    "wboyub",
+    "wboy2u",
+    "wboy2",
+    "wboy3",
+    "wboy4",
+    "wboy5",
+    "wboy6",
+    "wboysys2",
+    "wboysys2a"
+  ],
+  "developer": "Sega",
+  "publisher": "Escape",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "platform",
+  "subGenre": "shooter_scrolling",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "4_way"
+}

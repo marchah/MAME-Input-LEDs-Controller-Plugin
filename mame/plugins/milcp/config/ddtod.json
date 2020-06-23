@@ -1,0 +1,31 @@
+{
+  "name": "Dungeons & Dragons: Tower of Doom",
+  "serie": "Dungeons & Dragons",
+  "roms": [
+    "ddtod",
+    "ddtodd",
+    "ddtodar1",
+    "ddtodj",
+    "ddtodjr2",
+    "ddtodu",
+    "ddtodhr1",
+    "ddtodhr2",
+    "ddtodjr1",
+    "ddtodh",
+    "ddtoda",
+    "ddtodur1",
+    "ddtodr1"
+  ],
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "hardware": "cps2",
+  "playMode": "4_player_simultaneous",
+  "genre": "fighter",
+  "subGenre": "2.5D",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1",
+    "B_2": "BUTTON2"
+  },
+  "joystick": "8_way"
+}

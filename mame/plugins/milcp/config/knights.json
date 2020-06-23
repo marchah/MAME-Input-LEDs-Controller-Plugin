@@ -1,0 +1,23 @@
+{
+  "name": "Knights of the Round",
+  "roms": [
+    "knights",
+    "knightsu",
+    "knightsja",
+    "knightsj",
+    "knightsb",
+    "knightsb2",
+    "knightsb3"
+  ],
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "hardware": "cps1",
+  "playMode": "3_player_simultaneous",
+  "genre": "fighter",
+  "subGenre": "2.5D",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

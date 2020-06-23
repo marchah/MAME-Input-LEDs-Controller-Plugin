@@ -1,0 +1,23 @@
+{
+  "name": "Robocop",
+  "serie": "Robocop",
+  "roms": [
+    "robocop",
+    "robocopb",
+    "robocopu0",
+    "robocopj",
+    "robocopw",
+    "robocopu"
+  ],
+  "developer": "Data East",
+  "publisher": "Data East",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "platform",
+  "subGenre": "shooter_scrolling",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

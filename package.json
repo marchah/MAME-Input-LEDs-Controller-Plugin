@@ -114,6 +114,7 @@
     "jest": "jest --env=node --colors",
     "lint": "eslint --ext js,ts ./packages/",
     "typecheck": "./node_modules/.bin/tsc --noEmit --allowJs true --esModuleInterop true",
-    "test": "jest"
+    "test": "jest",
+    "build:mapping": "yarn exec ts-node -- -T ./scripts/buildMapping.ts"
   }
 }

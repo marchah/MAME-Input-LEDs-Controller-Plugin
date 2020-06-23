@@ -38,6 +38,7 @@ pip install requests
 - MAME seems to know how many buttons the game use, investigate that
 - Find a way set the game input configuration from the lua plugin
 - Find a way to go the http request directly from the lua plugin
+- Use .bat script instead of python in MAME plugin
 - Parse http query and display to user if error
 - If game pause make start button blink
 - If no coins make coins button blink

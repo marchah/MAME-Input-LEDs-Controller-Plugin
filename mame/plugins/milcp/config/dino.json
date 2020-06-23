@@ -1,0 +1,15 @@
+{
+  "name": "Cadillacs and Dinosaurs",
+  "roms": ["dino", "dinoa", "dinou", "dinopic", "dinopic2", "dinopic3"],
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "hardware": "cps1",
+  "playMode": "3_player_simultaneous",
+  "genre": "fighter",
+  "subGenre": "2.5D",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

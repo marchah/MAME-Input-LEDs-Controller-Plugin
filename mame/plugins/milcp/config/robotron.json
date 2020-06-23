@@ -1,0 +1,13 @@
+{
+  "name": "Robotron: 2084",
+  "serie": "Robotron",
+  "roms": ["robotron", "robotron87", "robotron12", "robotrontd", "robotronyo"],
+  "developer": "Vid Kidz",
+  "publisher": "Williams",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "shooter",
+  "subGenre": "field",
+  "inputs": {},
+  "joystick": "8_way"
+}

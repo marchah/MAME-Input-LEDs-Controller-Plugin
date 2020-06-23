@@ -1,0 +1,25 @@
+{
+  "name": "1943: The Battle of Midway",
+  "serie": "194X",
+  "roms": [
+    "1943",
+    "1943j",
+    "1943b",
+    "1943u",
+    "1943ja",
+    "1943jah",
+    "1943bj",
+    "1943ua"
+  ],
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "hardware": "arcade",
+  "playMode": "2_player_simultaneous",
+  "genre": "shooter",
+  "subGenre": "flying_vertical",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Shinobi",
+  "serie": "Shinobi",
+  "roms": [
+    "shinobi",
+    "shinobi5",
+    "shinobi2",
+    "shinobls",
+    "shinobld",
+    "shinobi1d",
+    "shinobi1",
+    "shinobi4",
+    "shinoblda",
+    "shinobi6",
+    "shinobi3",
+    "shinobi2d",
+    "shinoblb"
+  ],
+  "developer": "Sega",
+  "publisher": "Sega",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "platform",
+  "subGenre": "fighter_scrolling",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1",
+    "B_2": "BUTTON2"
+  },
+  "joystick": "4_way"
+}

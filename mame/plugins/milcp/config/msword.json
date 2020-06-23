@@ -1,0 +1,15 @@
+{
+  "name": "Magic Sword: Heroic Fantasy",
+  "roms": ["msword", "mswordr1", "mswordu", "mswordj"],
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "hardware": "cps1",
+  "playMode": "2_player_simultaneous",
+  "genre": "platform",
+  "subGenre": "fighter_scrolling",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "4_way"
+}

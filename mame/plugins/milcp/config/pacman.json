@@ -1,0 +1,28 @@
+{
+  "name": "Pac-Man",
+  "serie": "Pac-Man",
+  "roms": [
+    "pacman",
+    "pacmanbl",
+    "pacmanvg",
+    "pacmanbla",
+    "cpacmanr1",
+    "pac90",
+    "pacmanf",
+    "pacheart",
+    "cpacman",
+    "pacmanjpm",
+    "pacmanblv",
+    "pacmanso",
+    "pacmod",
+    "pacmanblb"
+  ],
+  "developer": "Namco",
+  "publisher": "Namco",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "maze",
+  "subGenre": "collect",
+  "inputs": {},
+  "joystick": "4_way"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Raiden Fighters Jet",
+  "serie": "Raiden",
+  "roms": [
+    "rfjet",
+    "rfjetsa",
+    "rfjett",
+    "rfjetj",
+    "rfjeta",
+    "rfjetu",
+    "rfjets"
+  ],
+  "developer": "Seibu Kaihatsu",
+  "publisher": "Seibu Kaihatsu",
+  "hardware": "arcade",
+  "playMode": "2_player_simultaneous",
+  "genre": "shooter",
+  "subGenre": "flying_vertical",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

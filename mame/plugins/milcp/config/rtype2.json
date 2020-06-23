@@ -1,0 +1,16 @@
+{
+  "name": "R-Type II",
+  "serie": "R-Type",
+  "roms": ["rtype2", "rtype2j", "rtype2jc", "rtype2m82b"],
+  "developer": "Irem",
+  "publisher": "Irem",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "shooter",
+  "subGenre": "flying_horizontal",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

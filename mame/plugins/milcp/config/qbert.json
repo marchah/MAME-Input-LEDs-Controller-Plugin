@@ -1,0 +1,13 @@
+{
+  "name": "Q*bert",
+  "serie": "Q*bert",
+  "roms": ["qbert", "qbertj", "pbqbert", "qberta"],
+  "developer": "Gottlieb",
+  "publisher": "Gottlieb",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "platform",
+  "subGenre": "run_jump",
+  "inputs": {},
+  "joystick": "4_way"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Bomb Jack",
+  "serie": "Bomb Jack",
+  "roms": ["bombjack", "bombjack2", "bombjackt"],
+  "developer": "Tehkan",
+  "publisher": "Tehkan",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "platform",
+  "subGenre": "run_jump",
+  "inputs": {
+    "B_0": "BUTTON0"
+  },
+  "joystick": "4_way"
+}

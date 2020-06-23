@@ -1,0 +1,16 @@
+{
+  "name": "Alien vs. Predator",
+  "roms": ["avsp", "avspj", "avspa", "avspd", "avsph", "avspu"],
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "hardware": "cps2",
+  "playMode": "3_player_simultaneous",
+  "genre": "fighter",
+  "subGenre": "2.5D",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1",
+    "B_2": "BUTTON2"
+  },
+  "joystick": "8_way"
+}

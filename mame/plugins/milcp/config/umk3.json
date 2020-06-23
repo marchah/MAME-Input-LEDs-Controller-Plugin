@@ -1,0 +1,20 @@
+{
+  "name": "Ultimate Mortal Kombat 3",
+  "serie": "Mortal Kombat",
+  "roms": ["umk3", "umk3r10", "umk3r11"],
+  "developer": "Midway",
+  "publisher": "Midway",
+  "hardware": "arcade",
+  "playMode": "8_player_alternating_2_player_simultaneous",
+  "genre": "fighter",
+  "subGenre": "versus",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1",
+    "B_2": "BUTTON2",
+    "B_3": "BUTTON3",
+    "B_4": "BUTTON4",
+    "B_5": "BUTTON5"
+  },
+  "joystick": "8_way"
+}

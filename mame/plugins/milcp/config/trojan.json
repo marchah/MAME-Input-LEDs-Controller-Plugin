@@ -1,0 +1,15 @@
+{
+  "name": "Trojan",
+  "roms": ["trojan", "trojanr", "trojanb", "trojana"],
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "platform",
+  "subGenre": "fighter_scrolling",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "4_way"
+}

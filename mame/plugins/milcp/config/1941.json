@@ -1,0 +1,16 @@
+{
+  "name": "1941: Counter Attack",
+  "serie": "194X",
+  "roms": ["1941", "1941r1", "1941j", "1941u"],
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "hardware": "cps1",
+  "playMode": "2_player_simultaneous",
+  "genre": "shooter",
+  "subGenre": "flying_vertical",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

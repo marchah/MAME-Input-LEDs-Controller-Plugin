@@ -1,0 +1,16 @@
+{
+  "name": "Silk Worm",
+  "roms": ["silkworm", "silkwormj", "silkwormb", "silkwormp"],
+  "developer": "Tecmo",
+  "publisher": "Tecmo",
+  "hardware": "arcade",
+  "playMode": "2_player_simultaneous",
+  "genre": "shooter",
+  "subGenre": "flying_horizontal",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1",
+    "B_2": "BUTTON2"
+  },
+  "joystick": "8_way"
+}

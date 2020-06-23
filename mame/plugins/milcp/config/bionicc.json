@@ -1,0 +1,16 @@
+{
+  "name": "Bionic Commandos",
+  "serie": "Bionic Commandos",
+  "roms": ["bionicc", "bioniccbl", "bioniccbl2"],
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "platform",
+  "subGenre": "shooter_scrolling",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

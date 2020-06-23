@@ -1,0 +1,16 @@
+{
+  "name": "After Burner II",
+  "serie": "After Burner",
+  "roms": ["aburner2", "aburner2g"],
+  "developer": "Sega",
+  "publisher": "Sega",
+  "hardware": "arcade",
+  "playMode": "1_player",
+  "genre": "shooter",
+  "subGenre": "flying",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

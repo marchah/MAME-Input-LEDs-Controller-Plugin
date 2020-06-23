@@ -1,0 +1,15 @@
+{
+  "name": "Willow",
+  "roms": ["willow", "willowu", "willowj", "willowuo"],
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "hardware": "cps1",
+  "playMode": "2_player_alternating",
+  "genre": "platform",
+  "subGenre": "shooter_scrolling",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "4_way"
+}

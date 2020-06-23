@@ -1,0 +1,16 @@
+{
+  "name": "Saturday Night Slam Masters",
+  "serie": "Slam Masters",
+  "roms": ["slammast", "slammastu", "slampic", "slampic2"],
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "hardware": "cps1",
+  "playMode": "4_player_simultaneous",
+  "genre": "sports",
+  "subGenre": "wrestling",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

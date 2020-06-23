@@ -1,0 +1,29 @@
+{
+  "name": "Space Invaders",
+  "serie": "Space Invaders",
+  "roms": [
+    "invaders",
+    "invaderl",
+    "invadernc",
+    "invadrmr",
+    "invadersem",
+    "sisv1",
+    "sitv1",
+    "sicv",
+    "sicv1",
+    "sisv3",
+    "sitv",
+    "sisv",
+    "sisv2"
+  ],
+  "developer": "Taito",
+  "publisher": "Taito",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "shooter",
+  "subGenre": "gallery",
+  "inputs": {
+    "B_0": "BUTTON0"
+  },
+  "joystick": "2_way"
+}

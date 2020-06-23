@@ -1,0 +1,25 @@
+{
+  "name": "Bubble Bobble",
+  "serie": "Bubble Bobble",
+  "roms": [
+    "bublbobl",
+    "bublboblr",
+    "bublboblr1",
+    "bublboblp",
+    "bbredux",
+    "bublbobl1",
+    "bublboblb",
+    "bub68705"
+  ],
+  "developer": "Taito",
+  "publisher": "Taito",
+  "hardware": "arcade",
+  "playMode": "2_player_simultaneous",
+  "genre": "platform",
+  "subGenre": "run_jump",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "4_way"
+}

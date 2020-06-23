@@ -1,0 +1,24 @@
+{
+  "name": "Donkey Kong",
+  "serie": "Donkey Kong",
+  "roms": [
+    "dkong",
+    "dkongj",
+    "dkongjo",
+    "dkongo",
+    "ckongdks",
+    "cdkong",
+    "dkonghrd",
+    "dkongjo1"
+  ],
+  "developer": "Nintendo",
+  "publisher": "Nintendo",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "platform",
+  "subGenre": "run_jump",
+  "inputs": {
+    "B_0": "BUTTON0"
+  },
+  "joystick": "4_way"
+}

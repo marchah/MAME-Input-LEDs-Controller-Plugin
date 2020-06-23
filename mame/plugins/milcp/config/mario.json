@@ -1,0 +1,15 @@
+{
+  "name": "Mario Bros.",
+  "serie": "Mario Bros.",
+  "roms": ["mario", "marioj", "mariof", "marioe", "mariobl", "mariobla"],
+  "developer": "Nintendo",
+  "publisher": "Nintendo",
+  "hardware": "arcade",
+  "playMode": "2_player_simultaneous",
+  "genre": "platform",
+  "subGenre": "run_jump",
+  "inputs": {
+    "B_0": "BUTTON0"
+  },
+  "joystick": "4_way"
+}

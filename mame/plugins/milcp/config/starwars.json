@@ -1,0 +1,15 @@
+{
+  "name": "Star Wars",
+  "serie": "Star Wars",
+  "roms": ["starwars", "starwarso", "starwars1"],
+  "developer": "Midway",
+  "publisher": "Atari",
+  "hardware": "arcade",
+  "playMode": "1_player",
+  "genre": "shooter",
+  "subGenre": "flying_first_person",
+  "inputs": {
+    "B_0": "BUTTON0"
+  },
+  "joystick": "8_way"
+}

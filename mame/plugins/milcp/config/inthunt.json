@@ -1,0 +1,15 @@
+{
+  "name": "In The Hunt",
+  "roms": ["inthunt", "inthuntu"],
+  "developer": "Irem",
+  "publisher": "Irem",
+  "hardware": "arcade",
+  "playMode": "2_player_simultaneous",
+  "genre": "shooter",
+  "subGenre": "misc_horizontal",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

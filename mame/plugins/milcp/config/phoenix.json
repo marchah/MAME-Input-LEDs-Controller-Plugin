@@ -1,0 +1,35 @@
+{
+  "name": "Phoenix",
+  "serie": "Phoenix",
+  "roms": [
+    "phoenix",
+    "phoenixa",
+    "phoenixj",
+    "phoenixb",
+    "phoenixha",
+    "phoenixi",
+    "phoenixgu",
+    "phoenix2",
+    "phoenixc3",
+    "phoenixc",
+    "phoenix3",
+    "phoenixass",
+    "phoenixs",
+    "phoenixt",
+    "phoenixdal",
+    "phoenixc4",
+    "phoenixc2",
+    "j5phnxa"
+  ],
+  "developer": "Centuri",
+  "publisher": "Amstar",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "shooter",
+  "subGenre": "gallery",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "2_way"
+}

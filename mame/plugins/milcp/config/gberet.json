@@ -1,0 +1,16 @@
+{
+  "name": "Green Beret",
+  "serie": "Green Beret",
+  "roms": ["gberet", "greenber", "gberetb"],
+  "developer": "Konami",
+  "publisher": "Konami",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "platform",
+  "subGenre": "shooter_scrolling",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "4_way"
+}

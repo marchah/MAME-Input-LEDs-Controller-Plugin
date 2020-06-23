@@ -1,0 +1,16 @@
+{
+  "name": "Battle Chopper",
+  "serie": "Battle Chopper",
+  "roms": ["bchopper"],
+  "developer": "Irem",
+  "publisher": "Irem",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "shooter",
+  "subGenre": "flying",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

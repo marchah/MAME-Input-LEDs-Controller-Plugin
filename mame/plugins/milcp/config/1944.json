@@ -1,0 +1,16 @@
+{
+  "name": "1944: The Loop Master",
+  "serie": "194X",
+  "roms": ["1944", "1944d", "1944j"],
+  "developer": "8ing/Raizing",
+  "publisher": "8ing/Raizing",
+  "hardware": "cps2",
+  "playMode": "2_player_simultaneous",
+  "genre": "shooter",
+  "subGenre": "flying_vertical",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

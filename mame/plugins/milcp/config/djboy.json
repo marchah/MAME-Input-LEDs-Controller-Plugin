@@ -1,0 +1,17 @@
+{
+  "name": "DJ Boy",
+  "serie": "DJ Boy",
+  "roms": ["djboy", "djboyua", "djboyja", "djboyj", "djboyu"],
+  "developer": "Kaneko",
+  "publisher": "Kaneko",
+  "hardware": "arcade",
+  "playMode": "2_player_simultaneous",
+  "genre": "fighter",
+  "subGenre": "2.5D",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1",
+    "B_2": "BUTTON2"
+  },
+  "joystick": "8_way"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Gauntlet",
+  "serie": "Gauntlet",
+  "roms": [
+    "gauntlet2p",
+    "gauntlet2pr3",
+    "gauntlet2pg1",
+    "gauntlet2pj",
+    "gauntlet2pj2",
+    "gauntlet2pg",
+    "gntlt"
+  ],
+  "developer": "Atari",
+  "publisher": "Atari",
+  "hardware": "arcade",
+  "playMode": "2_player_simultaneous",
+  "genre": "maze",
+  "subGenre": "shooter_large",
+  "inputs": {
+    "B_0": "BUTTON0"
+  },
+  "joystick": "4_way"
+}

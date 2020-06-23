@@ -1,0 +1,27 @@
+{
+  "name": "Pengo",
+  "roms": [
+    "pengo",
+    "pengob",
+    "pengo4",
+    "pengo2u",
+    "bpengo",
+    "pengojpm",
+    "pengo5",
+    "pengomc2",
+    "pengomc1",
+    "pengo3u",
+    "pengo2",
+    "pengopac"
+  ],
+  "developer": "Coreland",
+  "publisher": "Sega",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "maze",
+  "subGenre": "move_and_sort",
+  "inputs": {
+    "B_0": "BUTTON0"
+  },
+  "joystick": "4_way"
+}

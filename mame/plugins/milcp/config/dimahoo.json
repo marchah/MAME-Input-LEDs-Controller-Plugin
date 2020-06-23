@@ -1,0 +1,17 @@
+{
+  "name": "Dimahoo",
+  "serie": "Sorcer Striker",
+  "roms": ["dimahoo", "dimahoud", "dimahoou"],
+  "developer": "Raizing",
+  "publisher": "8ing/Raizing",
+  "hardware": "cps2",
+  "playMode": "2_player_simultaneous",
+  "genre": "shooter",
+  "subGenre": "flying_vertical",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1",
+    "B_2": "BUTTON2"
+  },
+  "joystick": "8_way"
+}

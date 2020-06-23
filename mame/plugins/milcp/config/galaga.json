@@ -1,0 +1,15 @@
+{
+  "name": "Galaga",
+  "serie": "Galaxian",
+  "roms": ["galaga", "galagamw", "galagamf", "galagao", "galagamk"],
+  "developer": "Namco",
+  "publisher": "Namco",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "shooter",
+  "subGenre": "gallery",
+  "inputs": {
+    "B_0": "BUTTON0"
+  },
+  "joystick": "2_way"
+}

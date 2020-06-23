@@ -1,0 +1,25 @@
+{
+  "name": "Vigilante",
+  "serie": "Kung-Fu Master",
+  "roms": [
+    "vigilant",
+    "vigilantd",
+    "vigilantc",
+    "vigilanta",
+    "vigilantg",
+    "vigilantbl",
+    "vigilanto",
+    "vigilantb"
+  ],
+  "developer": "Irem",
+  "publisher": "Irem",
+  "hardware": "arcade",
+  "playMode": "1_player",
+  "genre": "platform",
+  "subGenre": "fighter_scrolling",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "4_way"
+}

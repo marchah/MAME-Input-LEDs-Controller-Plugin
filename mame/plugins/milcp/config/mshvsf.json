@@ -1,0 +1,33 @@
+{
+  "name": "Marvel Super Heroes Vs. Street Fighter",
+  "serie": "Marvel Super Heroes",
+  "roms": [
+    "mshvsf",
+    "mshvsfu",
+    "mshvsfb1",
+    "mshvsfu1d",
+    "mshvsfj",
+    "mshvsfj2",
+    "mshvsfh",
+    "mshvsfj1",
+    "mshvsfa",
+    "mshvsfu1",
+    "mshvsfa1",
+    "mshvsfb"
+  ],
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "hardware": "cps2",
+  "playMode": "2_player_simultaneous",
+  "genre": "fighter",
+  "subGenre": "versus",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1",
+    "B_2": "BUTTON2",
+    "B_3": "BUTTON3",
+    "B_4": "BUTTON4",
+    "B_5": "BUTTON5"
+  },
+  "joystick": "8_way"
+}

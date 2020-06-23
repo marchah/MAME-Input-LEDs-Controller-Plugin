@@ -1,0 +1,32 @@
+{
+  "name": "Raiden Fighters",
+  "serie": "Raiden",
+  "roms": [
+    "rdft",
+    "rdftau",
+    "rdftgb",
+    "rdfts",
+    "rdftjb",
+    "rdftgr",
+    "rdftadi",
+    "rdftam",
+    "rdftu",
+    "rdftit",
+    "rdfta",
+    "rdftja",
+    "rdftauge",
+    "rdftua",
+    "rdftj"
+  ],
+  "developer": "Seibu Kaihatsu",
+  "publisher": "Seibu Kaihatsu",
+  "hardware": "arcade",
+  "playMode": "2_player_simultaneous",
+  "genre": "shooter",
+  "subGenre": "flying_vertical",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

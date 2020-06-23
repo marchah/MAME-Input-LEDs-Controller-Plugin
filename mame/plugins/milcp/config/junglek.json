@@ -1,0 +1,14 @@
+{
+  "name": "Jungle King",
+  "roms": ["junglek", "junglekj2", "junglekas"],
+  "developer": "Taito",
+  "publisher": "Taito",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "platform",
+  "subGenre": "run_jump_scrolling",
+  "inputs": {
+    "B_0": "BUTTON0"
+  },
+  "joystick": "4_way"
+}

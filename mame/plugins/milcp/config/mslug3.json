@@ -1,0 +1,17 @@
+{
+  "name": "Metal Slug 3",
+  "serie": "Metal Slug",
+  "roms": ["mslug3", "mslug3a", "mslug3h"],
+  "developer": "SNK",
+  "publisher": "SNK",
+  "hardware": "neogeo",
+  "playMode": "2_player_simultaneous",
+  "genre": "platform",
+  "subGenre": "shooter_scrolling",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1",
+    "B_2": "BUTTON2"
+  },
+  "joystick": "4_way"
+}

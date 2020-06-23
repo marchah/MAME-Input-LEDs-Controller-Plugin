@@ -1,0 +1,15 @@
+{
+  "name": "Mr. Do!",
+  "serie": "Mr. Do!",
+  "roms": ["mrdo", "mrdoy", "mrdot", "mrdofabr", "mrdofix"],
+  "developer": "Universal",
+  "publisher": "Universal",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "maze",
+  "subGenre": "digging",
+  "inputs": {
+    "B_0": "BUTTON0"
+  },
+  "joystick": "4_way"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Guerrilla War",
+  "roms": ["gwar", "gwarb", "gwarab", "gwara"],
+  "developer": "SNK",
+  "publisher": "SNK",
+  "hardware": "arcade",
+  "playMode": "2_player_simultaneous",
+  "genre": "shooter",
+  "subGenre": "walking",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

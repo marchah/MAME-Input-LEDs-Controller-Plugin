@@ -1,0 +1,26 @@
+{
+  "name": "Out Run",
+  "serie": "Out Run",
+  "roms": [
+    "outrun",
+    "outrundx",
+    "outrunra",
+    "mt_orun",
+    "outrundxa",
+    "outrunb",
+    "outrundxeh",
+    "outruneh",
+    "outrundxj"
+  ],
+  "developer": "Sega",
+  "publisher": "Sega",
+  "hardware": "arcade",
+  "playMode": "1_player",
+  "genre": "driving",
+  "subGenre": "race",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "4_way"
+}

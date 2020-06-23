@@ -1,0 +1,29 @@
+{
+  "name": "Double Dragon",
+  "serie": "Double Dragon",
+  "roms": [
+    "ddragon",
+    "ddragonw1",
+    "ddragonub",
+    "ddragonua",
+    "ddragonb",
+    "ddragonw",
+    "ddragonba",
+    "ddragonu",
+    "ddragonb2",
+    "ddragon6809a",
+    "ddragon6809"
+  ],
+  "developer": "Technos",
+  "publisher": "Technos",
+  "hardware": "arcade",
+  "playMode": "2_player_simultaneous",
+  "genre": "fighter",
+  "subGenre": "2.5D",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1",
+    "B_2": "BUTTON2"
+  },
+  "joystick": "8_way"
+}

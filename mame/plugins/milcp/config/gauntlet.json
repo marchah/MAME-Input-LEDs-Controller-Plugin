@@ -1,0 +1,30 @@
+{
+  "name": "Gauntlet",
+  "serie": "Gauntlet",
+  "roms": [
+    "gauntlet",
+    "gauntletr2",
+    "gauntletj12",
+    "gauntletr5",
+    "gauntletr7",
+    "gauntletgr3",
+    "gauntlets",
+    "gauntletr9",
+    "gauntletj",
+    "gauntletgr8",
+    "gauntletg",
+    "gauntletr4",
+    "gauntletgr6",
+    "gauntletr1"
+  ],
+  "developer": "Atari",
+  "publisher": "Atari",
+  "hardware": "arcade",
+  "playMode": "4_player_simultaneous",
+  "genre": "maze",
+  "subGenre": "shooter_large",
+  "inputs": {
+    "B_0": "BUTTON0"
+  },
+  "joystick": "4_way"
+}

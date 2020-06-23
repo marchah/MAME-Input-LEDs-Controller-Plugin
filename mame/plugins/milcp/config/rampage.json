@@ -1,0 +1,17 @@
+{
+  "name": "Rampage",
+  "serie": "Rampage",
+  "roms": ["rampage", "rampage2", "m5rampg11", "m5rampg", "m5rampg12"],
+  "developer": "Midway",
+  "publisher": "Midway",
+  "hardware": "arcade",
+  "playMode": "3_player_simultaneous",
+  "genre": "platform",
+  "subGenre": "fighter",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1",
+    "B_2": "BUTTON2"
+  },
+  "joystick": "4_way"
+}

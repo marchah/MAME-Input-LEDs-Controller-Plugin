@@ -1,0 +1,17 @@
+{
+  "name": "ESP Ra.De.",
+  "serie": "ESP Ra.De.",
+  "roms": ["esprade", "espradej", "espradejo"],
+  "developer": "Cave",
+  "publisher": "Cave",
+  "hardware": "arcade",
+  "playMode": "2_player_simultaneous",
+  "genre": "shooter",
+  "subGenre": "flying_vertical",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1",
+    "B_2": "BUTTON2"
+  },
+  "joystick": "8_way"
+}

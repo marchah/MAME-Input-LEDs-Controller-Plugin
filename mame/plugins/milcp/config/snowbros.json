@@ -1,0 +1,24 @@
+{
+  "name": "Snow Bros.: Nick & Tom",
+  "serie": "Snow Bros.",
+  "roms": [
+    "snowbros",
+    "snowbrosc",
+    "snowbrosd",
+    "snowbrosa",
+    "snowbroswb",
+    "snowbrosj",
+    "snowbrosb"
+  ],
+  "developer": "ToaPlan",
+  "publisher": "ToaPlan",
+  "hardware": "arcade",
+  "playMode": "2_player_simultaneous",
+  "genre": "platform",
+  "subGenre": "run_jump",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "4_way"
+}

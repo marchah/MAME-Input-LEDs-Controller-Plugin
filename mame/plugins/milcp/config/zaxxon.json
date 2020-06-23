@@ -1,0 +1,15 @@
+{
+  "name": "Zaxxon",
+  "serie": "Zaxxon",
+  "roms": ["zaxxon", "zaxxonj", "bzaxxon", "zaxxon2", "zaxxon3"],
+  "developer": "Ikegami Tsushinki",
+  "publisher": "Sega",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "shooter",
+  "subGenre": "flying_diagonal",
+  "inputs": {
+    "B_0": "BUTTON0"
+  },
+  "joystick": "4_way"
+}

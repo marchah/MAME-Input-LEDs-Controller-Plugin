@@ -1,0 +1,16 @@
+{
+  "name": "Operation Wolf",
+  "serie": "Operation Wolf",
+  "roms": ["opwolf", "opwolfjsc", "opwolfj", "opwolfu", "opwolfa", "opwolfp"],
+  "developer": "Taito",
+  "publisher": "Taito",
+  "hardware": "arcade",
+  "playMode": "1_player",
+  "genre": "shooter",
+  "subGenre": "gun",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

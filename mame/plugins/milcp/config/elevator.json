@@ -1,0 +1,16 @@
+{
+  "name": "Elevator Action",
+  "serie": "Elevator Action",
+  "roms": ["elevator", "elevatorb", "elevator4"],
+  "developer": "Taito",
+  "publisher": "Taito",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "platform",
+  "subGenre": "shooter",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "4_way"
+}

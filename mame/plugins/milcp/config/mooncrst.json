@@ -1,0 +1,30 @@
+{
+  "name": "Moon Cresta",
+  "serie": "Moon Cresta",
+  "roms": [
+    "mooncrst",
+    "mooncrgx",
+    "mooncrstg",
+    "mooncrstso",
+    "mooncrstuk",
+    "mooncptc",
+    "mooncrs3",
+    "mooncrstu",
+    "mooncrsb",
+    "mooncreg",
+    "mooncrs5",
+    "mooncrs2",
+    "mooncrstuku",
+    "mooncrsto"
+  ],
+  "developer": "Nichibutsu",
+  "publisher": "Nichibutsu",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "shooter",
+  "subGenre": "gallery",
+  "inputs": {
+    "B_0": "BUTTON0"
+  },
+  "joystick": "2_way"
+}

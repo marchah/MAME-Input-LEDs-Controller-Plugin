@@ -1,0 +1,30 @@
+{
+  "name": "Scramble",
+  "serie": "Scramble",
+  "roms": [
+    "scramble",
+    "scrambles",
+    "scrambles2",
+    "scramb2",
+    "scramblebb",
+    "scramblebf",
+    "scramce",
+    "scramblb",
+    "scrammr",
+    "scrampt",
+    "scramrf",
+    "scrambler",
+    "scramb3"
+  ],
+  "developer": "Konami",
+  "publisher": "Konami",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "shooter",
+  "subGenre": "flying_horizontal",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

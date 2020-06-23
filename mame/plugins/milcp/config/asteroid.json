@@ -1,0 +1,17 @@
+{
+  "name": "Asteroids",
+  "serie": "Asteroids",
+  "roms": ["asteroid", "asteroidb", "asteroid2", "asteroid1"],
+  "developer": "Atari",
+  "publisher": "Atari",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "shooter",
+  "subGenre": "field",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1",
+    "B_2": "BUTTON2"
+  },
+  "joystick": "4_way"
+}

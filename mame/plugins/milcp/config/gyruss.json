@@ -1,0 +1,14 @@
+{
+  "name": "Gyruss",
+  "roms": ["gyruss", "gyrussb", "gyrussce"],
+  "developer": "Konami",
+  "publisher": "Konami",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "shooter",
+  "subGenre": "flying",
+  "inputs": {
+    "B_0": "BUTTON0"
+  },
+  "joystick": "2_way"
+}

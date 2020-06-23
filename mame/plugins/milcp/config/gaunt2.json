@@ -1,0 +1,15 @@
+{
+  "name": "Gauntlet II",
+  "serie": "Gauntlet",
+  "roms": ["gaunt2", "gaunt2g"],
+  "developer": "Atari",
+  "publisher": "Atari",
+  "hardware": "arcade",
+  "playMode": "4_player_simultaneous",
+  "genre": "maze",
+  "subGenre": "shooter_large",
+  "inputs": {
+    "B_0": "BUTTON0"
+  },
+  "joystick": "4_way"
+}

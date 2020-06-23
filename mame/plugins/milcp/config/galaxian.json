@@ -1,0 +1,29 @@
+{
+  "name": "Galaxian",
+  "serie": "Galaxian",
+  "roms": [
+    "galaxian",
+    "galaxiant",
+    "galaxiani",
+    "galaxianmo",
+    "galaxrf",
+    "galaxianbl",
+    "galaxiana",
+    "cgalaxn",
+    "galaxbsf",
+    "galaxianm",
+    "galaxianbl2",
+    "galaxianbl3",
+    "galaxbsf2"
+  ],
+  "developer": "Namco",
+  "publisher": "Namco",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "shooter",
+  "subGenre": "gallery",
+  "inputs": {
+    "B_0": "BUTTON0"
+  },
+  "joystick": "2_way"
+}

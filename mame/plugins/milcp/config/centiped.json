@@ -1,0 +1,23 @@
+{
+  "name": "Centipede",
+  "serie": "Centipede",
+  "roms": [
+    "centiped",
+    "centipedj",
+    "centipdb2",
+    "centiped3",
+    "centiped2",
+    "centiped1",
+    "centipdb"
+  ],
+  "developer": "Atari",
+  "publisher": "Atari",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "shooter",
+  "subGenre": "gallery",
+  "inputs": {
+    "B_0": "BUTTON0"
+  },
+  "joystick": "8_way"
+}

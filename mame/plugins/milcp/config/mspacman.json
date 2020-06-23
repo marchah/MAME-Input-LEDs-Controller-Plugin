@@ -1,0 +1,25 @@
+{
+  "name": "Ms. Pac-Man",
+  "serie": "Pac-Man",
+  "roms": [
+    "mspacman",
+    "mspacmanbg",
+    "mspacmanbg2",
+    "mspacmab2",
+    "mspacmbe",
+    "mspacmanbi",
+    "mspacmbmc",
+    "mspacmnf",
+    "mspacmancr",
+    "mspacmab",
+    "cmspacmn"
+  ],
+  "developer": "Midway",
+  "publisher": "Midway",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "maze",
+  "subGenre": "collect",
+  "inputs": {},
+  "joystick": "4_way"
+}

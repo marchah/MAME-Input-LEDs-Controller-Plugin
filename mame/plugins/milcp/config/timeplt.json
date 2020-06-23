@@ -1,0 +1,15 @@
+{
+  "name": "Time Pilot",
+  "serie": "Time Pilot",
+  "roms": ["timeplt", "timepltc", "timeplta"],
+  "developer": "Konami",
+  "publisher": "Konami",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "shooter",
+  "subGenre": "field",
+  "inputs": {
+    "B_0": "BUTTON0"
+  },
+  "joystick": "4_way"
+}

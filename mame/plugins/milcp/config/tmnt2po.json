@@ -1,0 +1,16 @@
+{
+  "name": "Teenage Mutant Ninja Turtles",
+  "serie": "Teenage Mutant Ninja Turtles",
+  "roms": ["tmnt2po", "tmnt2pj"],
+  "developer": "Konami",
+  "publisher": "Konami",
+  "hardware": "arcade",
+  "playMode": "2_player_simultaneous",
+  "genre": "fighter",
+  "subGenre": "2.5D",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Dungeons & Dragons: Shadow over Mystara",
+  "serie": "Dungeons & Dragons",
+  "roms": [
+    "ddsom",
+    "ddsomu",
+    "ddsoma",
+    "ddsomj",
+    "ddsomjr2",
+    "ddsomr3",
+    "ddsomr2",
+    "ddsomar1",
+    "ddsomjr1",
+    "ddsomr1",
+    "ddsomur1",
+    "ddsomud"
+  ],
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "hardware": "cps2",
+  "playMode": "4_player_simultaneous",
+  "genre": "fighter",
+  "subGenre": "2.5D",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1",
+    "B_2": "BUTTON2",
+    "B_3": "BUTTON3"
+  },
+  "joystick": "8_way"
+}

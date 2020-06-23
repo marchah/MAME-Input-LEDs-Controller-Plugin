@@ -1,0 +1,15 @@
+{
+  "name": "Joust",
+  "serie": "Joust",
+  "roms": ["joust", "joustr", "joustwr"],
+  "developer": "Williams",
+  "publisher": "Williams",
+  "hardware": "arcade",
+  "playMode": "2_player_simultaneous",
+  "genre": "platform",
+  "subGenre": "run_jump",
+  "inputs": {
+    "B_0": "BUTTON0"
+  },
+  "joystick": "4_way"
+}

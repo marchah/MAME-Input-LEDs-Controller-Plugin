@@ -1,0 +1,24 @@
+{
+  "name": "Commando",
+  "serie": "Commando",
+  "roms": [
+    "commando",
+    "commandou",
+    "commandob2",
+    "commandob3",
+    "commandob",
+    "commandou2",
+    "commsega"
+  ],
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "shooter",
+  "subGenre": "walking",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "8_way"
+}

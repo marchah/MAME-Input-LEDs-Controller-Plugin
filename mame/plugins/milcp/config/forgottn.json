@@ -1,0 +1,23 @@
+{
+  "name": "Forgotten Worlds",
+  "serie": "Forgotten Worlds",
+  "roms": [
+    "forgottn",
+    "forgottnue",
+    "forgottnu",
+    "forgottnuaa",
+    "forgottnua",
+    "forgottnuc",
+    "forgottna"
+  ],
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "hardware": "cps1",
+  "playMode": "2_player_simultaneous",
+  "genre": "shooter",
+  "subGenre": "flying_horizontal",
+  "inputs": {
+    "B_0": "BUTTON0"
+  },
+  "joystick": "8_way"
+}

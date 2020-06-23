@@ -1,0 +1,23 @@
+{
+  "name": "Alien Syndrome",
+  "roms": [
+    "aliensyn",
+    "aliensynj",
+    "aliensyn5",
+    "aliensyn7",
+    "aliensyn3",
+    "aliensynjo",
+    "aliensyn2",
+    "mt_asyn"
+  ],
+  "developer": "Sega",
+  "publisher": "Sega",
+  "hardware": "arcade",
+  "playMode": "2_player_simultaneous",
+  "genre": "maze",
+  "subGenre": "shooter_large",
+  "inputs": {
+    "B_0": "BUTTON0"
+  },
+  "joystick": "8_way"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Moon Patrol",
+  "roms": ["mpatrol", "mpatrolw"],
+  "developer": "Midway",
+  "publisher": "Irem",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "shooter",
+  "subGenre": "driving_horizontal",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1"
+  },
+  "joystick": "2_way"
+}

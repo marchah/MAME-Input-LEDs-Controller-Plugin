@@ -1,0 +1,17 @@
+{
+  "name": "Mushihime-Sama Futari Ver 1.5",
+  "serie": "Mushihime-Sama",
+  "roms": ["futari15", "futari15a"],
+  "developer": "Cave",
+  "publisher": "Cave",
+  "hardware": "arcade",
+  "playMode": "2_player_simultaneous",
+  "genre": "shooter",
+  "subGenre": "flying_vertical",
+  "inputs": {
+    "B_0": "BUTTON0",
+    "B_1": "BUTTON1",
+    "B_2": "BUTTON2"
+  },
+  "joystick": "8_way"
+}
