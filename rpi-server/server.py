@@ -10,8 +10,18 @@ app = Flask(__name__)
 
 DEBUG = True if os.getenv(
     'DEBUG', 'OFF') == 'ON' else False
-LED_DEFAULT_VALUE = GPIO.LOW if os.getenv(
-    'LED_DEFAULT_VALUE', 'OFF') == 'OFF' else GPIO.HIGH
+LED_DEFAULT_VALUE = os.getenv('LED_DEFAULT_VALUE', 'ON')
+MY_RELAY_IS_REVERSE = True if os.getenv(
+    'MY_RELAY_IS_REVERSE', 'TRUE') == 'TRUE' else False
+
+relayOnState = GPIO.HIGH
+relayOffState = GPIO.LOW
+
+if (MY_RELAY_IS_REVERSE):
+    relayOnState = GPIO.LOW
+    relayOffState = GPIO.HIGH
+
+ledDefaultValue = relayOnState if LED_DEFAULT_VALUE == 'ON' else relayOffState
 
 pinMapping = {
     'B_0': 2,
@@ -29,7 +39,7 @@ GPIO.setmode(GPIO.BCM)
 for key in pinMapping:
     value = pinMapping[key]
     GPIO.setup(value, GPIO.OUT)  # GPIO Assign mode
-    GPIO.output(value, LED_DEFAULT_VALUE)
+    GPIO.output(value, ledDefaultValue)
 
 
 @app.route('/debug', methods=['POST'])
@@ -52,9 +62,9 @@ def playGame(romname):
     for key in pinMapping:
         value = pinMapping[key]
         if key in content["inputs"]:
-            GPIO.output(value, GPIO.HIGH)
+            GPIO.output(value, relayOnState)
         else:
-            GPIO.output(value, GPIO.LOW)
+            GPIO.output(value, relayOffState)
 
     return jsonify({"success": True})
 
@@ -64,7 +74,7 @@ def endGame(romname):
     if (DEBUG):
         print("--- Stop " + romname + " ---")
     for key in pinMapping:
-        GPIO.output(pinMapping[key], LED_DEFAULT_VALUE)
+        GPIO.output(pinMapping[key], ledDefaultValue)
     return jsonify({"success": True})
 
 

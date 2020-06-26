@@ -33,6 +33,8 @@ pip install flask
 By defaults when no game is running all the LEDs will be turn on.
 If you want the default behaviour do be all the LEDs off set the env variable `LED_DEFAULT_VALUE` to `OFF`
 
+If after wiring everything and trying the plugin yours LEDs behave the opposite of what they should, that mean your relay use `HIGH` to let the current though and `LOW` to block it. After some research i found that the most common behaviour is the opposite. To fix this issue set the env variable `MY_RELAY_IS_REVERSE` to `FALSE`
+
 Start server
 
 ```
