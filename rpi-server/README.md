@@ -1,5 +1,10 @@
 # Server For MAME Input LEDs Controller Plugin
 
+## Wiring
+
+_Ugly relay schema_
+![WIRING](img/MILCP_wiring.png)
+
 ## Install
 
 In terminal type:
