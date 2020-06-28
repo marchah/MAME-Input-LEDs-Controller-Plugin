@@ -7,6 +7,7 @@ import RPi.GPIO as GPIO
 
 from one_player_eight_buttons import createOnePlayerEightButtons
 from two_players_three_buttons import createTwoPlayersThreeButtons
+from two_players_eight_buttons_complex import createTwoPlayersEightButtonsComplex
 
 app = Flask(__name__)
 
