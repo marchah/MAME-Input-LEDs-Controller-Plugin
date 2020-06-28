@@ -15,7 +15,7 @@ else:
         for key in config["inputs"]:
             inputs.append(key)
 
-        nbPlayers = int(config["inputs"][0])
+        nbPlayers = int(config["playMode"][0])
 
         r = requests.post("http://" + SERVER_IP + '/game/' +
                           sys.argv[1], json={"inputs": inputs, "nbPlayers": nbPlayers})
