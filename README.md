@@ -1,8 +1,17 @@
 # Plugin MAME Input LEDs Controller Plugin
 
-## WIRING
+## Wiring
 
-![WIRING](img/MILCP_wiring.png)
+Should work this anyboard just follow the same pricipal
+![Board](img/MILCP_zero_delay_board_layout.png)
+
+If you have less buttons it should works too just follow the same pricipal
+![6_buttons](img/MILCP_6_buttons_layout.PNG
+![8_buttons](img/MILCP_8_buttons_layout.PNG)
+
+_Technically right now the buttons wiring doesn't matter as i don't change anything but hopefully soon i will remap the buttons layout base on the game specificity_
+
+[Server side wiring](/rpi-server#Wiring)
 
 ## Install
 
@@ -37,7 +46,7 @@ pip install requests
 ## TODO
 
 - Use mosfets instead of relays
-- Improve ugly wiring diagram
+- Improve ugly wiring diagram (all the drawing are ugly tbh)
 - MAME seems to know how many buttons the game use, investigate that
 - Find a way set the game input configuration from the lua plugin
 - Find a way to go the http request directly from the lua plugin

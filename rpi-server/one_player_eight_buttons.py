@@ -4,8 +4,10 @@ from utils import initLEDs, setLEDsValue, resetLEDsValue
 
 
 class OnePlayerEightButtons:
-    def __init__(self, ledDefaultValue):
+    def __init__(self, ledDefaultValue, relayOnState, relayOffState):
         self.ledDefaultValue = ledDefaultValue
+        self.relayOnState = relayOnState
+        self.relayOffState = relayOffState
         self.playerOnePins = {
             'B_0': 2,
             'B_1': 3,
@@ -21,11 +23,12 @@ class OnePlayerEightButtons:
         initLEDs(self.playerOnePins, ledDefaultValue)
 
     def setLEDs(self, inputs, nbPlayers):
-        setLEDsValue(self.playerOnePins, inputs)
+        setLEDsValue(self.playerOnePins, inputs,
+                     self.relayOnState, self.relayOffState)
 
     def resetLEDs(self):
         resetLEDsValue(self.playerOnePins, self.ledDefaultValue)
 
 
-def createOnePlayerEightButtons(ledDefaultValue):
-    return OnePlayerEightButtons(ledDefaultValue)
+def createOnePlayerEightButtons(ledDefaultValue, relayOnState, relayOffState):
+    return OnePlayerEightButtons(ledDefaultValue, relayOnState, relayOffState)

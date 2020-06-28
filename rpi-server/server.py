@@ -16,16 +16,28 @@ TWO_PLAYERS_THREE_BUTTONS = 'TWO_PLAYERS_THREE_BUTTONS'
 
 DEBUG = True if os.getenv(
     'DEBUG', 'OFF') == 'ON' else False
-LED_DEFAULT_VALUE = GPIO.LOW if os.getenv(
-    'LED_DEFAULT_VALUE', 'OFF') == 'OFF' else GPIO.HIGH
+
+LED_DEFAULT_VALUE = os.getenv('LED_DEFAULT_VALUE', 'ON')
+MY_RELAY_IS_REVERSE = True if os.getenv(
+    'MY_RELAY_IS_REVERSE', 'TRUE') == 'TRUE' else False
 VERSION = os.getenv('VERSION', TWO_PLAYERS_THREE_BUTTONS)
+
+relayOnState = GPIO.HIGH
+relayOffState = GPIO.LOW
+
+if (MY_RELAY_IS_REVERSE):
+    relayOnState = GPIO.LOW
+    relayOffState = GPIO.HIGH
+
+ledDefaultValue = relayOnState if LED_DEFAULT_VALUE == 'ON' else relayOffState
 
 versions = {
     ONE_PLAYER_EIGHT_BUTTONS: createOnePlayerEightButtons,
     TWO_PLAYERS_THREE_BUTTONS: createTwoPlayersThreeButtons,
 }
 
-inputController = versions[VERSION](LED_DEFAULT_VALUE)
+inputController = versions[VERSION](
+    ledDefaultValue, relayOnState, relayOffState)
 
 
 @app.route('/debug', methods=['POST'])
