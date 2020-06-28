@@ -61,8 +61,9 @@ def playGame(romname):
     if not nbPlayers:
         return jsonify({"success": False, "message": "Missing nbPlayers"})
 
-    if not nbPlayers.is_integer():
-        return jsonify({"success": False, "message": "nbPlayers should be an integer"})
+    # not working get `'int' object has no attribute 'is_integer'`
+    # if not nbPlayers.is_integer():
+    #    return jsonify({"success": False, "message": "nbPlayers should be an integer"})
 
     inputController.setLEDs(inputs, nbPlayers)
 
