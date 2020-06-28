@@ -12,6 +12,7 @@ app = Flask(__name__)
 
 ONE_PLAYER_EIGHT_BUTTONS = 'ONE_PLAYER_EIGHT_BUTTONS'
 TWO_PLAYERS_THREE_BUTTONS = 'TWO_PLAYERS_THREE_BUTTONS'
+TWO_PLAYERS_EIGHT_BUTTONS_COMPLEX = 'TWO_PLAYERS_EIGHT_BUTTONS_COMPLEX'
 
 
 DEBUG = True if os.getenv(
@@ -34,6 +35,7 @@ ledDefaultValue = relayOnState if LED_DEFAULT_VALUE == 'ON' else relayOffState
 versions = {
     ONE_PLAYER_EIGHT_BUTTONS: createOnePlayerEightButtons,
     TWO_PLAYERS_THREE_BUTTONS: createTwoPlayersThreeButtons,
+    TWO_PLAYERS_EIGHT_BUTTONS_COMPLEX: createTwoPlayersEightButtonsComplex,
 }
 
 inputController = versions[VERSION](
