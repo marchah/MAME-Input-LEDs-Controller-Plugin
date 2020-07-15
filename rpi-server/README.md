@@ -3,7 +3,7 @@
 ## Wiring
 
 _Ugly relay schema_
-![WIRING](img/MILCP_wiring.png)
+![WIRING](../img/MILCP_wiring.png)
 
 ## Install
 
