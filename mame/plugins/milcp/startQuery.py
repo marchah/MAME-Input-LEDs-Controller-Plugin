@@ -15,8 +15,11 @@ else:
         for key in config["inputs"]:
             inputs.append(key)
 
+        # stupid what about 2_player_alternating ?
+        nbPlayers = int(config["playMode"][0])
+
         r = requests.post("http://" + SERVER_IP + '/game/' +
-                          sys.argv[1], json={"inputs": inputs})
+                          sys.argv[1], json={"inputs": inputs, "nbPlayers": nbPlayers})
         if (DEBUG):
             print(r.text)
     except Exception as e:
