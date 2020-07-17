@@ -1,5 +1,12 @@
 # Plugin MAME Input LEDs Controller Plugin
 
+This plugin is meant for setup using cheap board like zero delay.
+If you have a fancy board like I-PAC Ultimate I/O or a LED controller check those software:
+
+- Windows: [LED Blinky](https://www.ledblinky.net/)
+- Rasperry Pi: [RGB Commander](http://users.telenet.be/rgbcommander/)
+- Linux: [LED Spicer](https://sourceforge.net/p/ledspicer/wiki/Home/)
+
 ## Wiring
 
 Should work this anyboard just follow the same pricipal

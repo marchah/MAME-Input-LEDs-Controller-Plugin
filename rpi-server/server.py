@@ -7,13 +7,18 @@ import RPi.GPIO as GPIO
 
 from one_player_eight_buttons import createOnePlayerEightButtons
 from two_players_three_buttons import createTwoPlayersThreeButtons
+from two_players_eight_buttons import createTwoPlayersEightButtons
 from two_players_eight_buttons_complex import createTwoPlayersEightButtonsComplex
+from three_players_eight_buttons import createThreePlayersEightButtons
+
 
 app = Flask(__name__)
 
 ONE_PLAYER_EIGHT_BUTTONS = 'ONE_PLAYER_EIGHT_BUTTONS'
 TWO_PLAYERS_THREE_BUTTONS = 'TWO_PLAYERS_THREE_BUTTONS'
+TWO_PLAYERS_EIGHT_BUTTONS = 'TWO_PLAYERS_EIGHT_BUTTONS'
 TWO_PLAYERS_EIGHT_BUTTONS_COMPLEX = 'TWO_PLAYERS_EIGHT_BUTTONS_COMPLEX'
+THREE_PLAYERS_EIGHT_BUTTONS = 'THREE_PLAYERS_EIGHT_BUTTONS'
 
 
 DEBUG = True if os.getenv(
@@ -36,7 +41,9 @@ ledDefaultValue = relayOnState if LED_DEFAULT_VALUE == 'ON' else relayOffState
 versions = {
     ONE_PLAYER_EIGHT_BUTTONS: createOnePlayerEightButtons,
     TWO_PLAYERS_THREE_BUTTONS: createTwoPlayersThreeButtons,
-    TWO_PLAYERS_EIGHT_BUTTONS_COMPLEX: createTwoPlayersEightButtonsComplex,
+    TWO_PLAYERS_EIGHT_BUTTONS: createTwoPlayersEightButtons,
+    TWO_PLAYERS_EIGHT_BUTTONS_COMPLEX: createTwoPlayersEightButtonsComplex, # WIP
+    THREE_PLAYERS_EIGHT_BUTTONS: createThreePlayersEightButtons,
 }
 
 inputController = versions[VERSION](
