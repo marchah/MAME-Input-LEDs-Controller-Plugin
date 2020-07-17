@@ -5,7 +5,7 @@
 ### Relay wiring
 
 _Ugly relay schema_
-![WIRING](img/MILCP_wiring.png)
+![WIRING](../img/MILCP_wiring.png)
 
 You actually don't need to return the ground wire to the board, you can daisy chaine them to 1 button. In setup I use button 0 ground wire as gound for button 1, 2 and 3, and button 4 ground for button 5, 6 and 7.
 
