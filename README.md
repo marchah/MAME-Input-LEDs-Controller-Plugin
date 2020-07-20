@@ -1,5 +1,7 @@
 # Plugin MAME Input LEDs Controller Plugin
 
+**The plugin won't receive any new updates until i found how to make MAME load a `.ddl` plugin or when someone decide to write documentations. If you have issues create a ticket and I will fix the bug. Also if you have idea on how to improve feel free to create a ticket. I'm switching to IPAC Ultimate I/0 and LEDBlinky so no point on improving if nobody use it.**
+
 This plugin is meant for setup using cheap board like zero delay.
 If you have a fancy board like I-PAC Ultimate I/O or a LED controller check those software:
 
